@@ -8,6 +8,11 @@ Soya ShintaniのWeb制作営業用デモLPです。
 - Built as a portfolio-ready demo, not a paid client case study
 - Focused on first view clarity, CTA flow, trust proof, price anchoring, and FAQ
 
+## Links
+
+- Live: https://lp-sprint-showcase.vercel.app
+- GitHub: https://github.com/soyashintani/lp-sprint-showcase
+
 ## Local preview
 
 Open `index.html` directly, or serve the folder with any static server.
