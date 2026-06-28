@@ -20,6 +20,9 @@ https://lp-sprint-showcase.vercel.app
 GitHub:
 https://github.com/soyashintani/lp-sprint-showcase
 
+Notion:
+https://app.notion.com/p/38dfa5a3a09f813c909fc1c76c0f62c7
+
 デモ作品なので、実在クライアントの成果としては出していません。
 こういう「売る導線まで考えたWeb制作」を増やしていきます。
 ```
@@ -42,6 +45,9 @@ https://lp-sprint-showcase.vercel.app
 GitHub:
 https://github.com/soyashintani/lp-sprint-showcase
 
+Notion:
+https://app.notion.com/p/38dfa5a3a09f813c909fc1c76c0f62c7
+
 ※実在クライアント案件ではなく、デモ制作です。
 ```
 
@@ -58,6 +64,9 @@ https://lp-sprint-showcase.vercel.app
 
 GitHub:
 https://github.com/soyashintani/lp-sprint-showcase
+
+Notion:
+https://app.notion.com/p/38dfa5a3a09f813c909fc1c76c0f62c7
 
 通話前提ではなく、メール/チャット/ドキュメント中心で進行できます。
 必要でしたら、御社向けにファーストビュー改善案を1案だけお送りします。

@@ -12,6 +12,7 @@ Soya ShintaniのWeb制作営業用デモLPです。
 
 - Live: https://lp-sprint-showcase.vercel.app
 - GitHub: https://github.com/soyashintani/lp-sprint-showcase
+- Notion: https://app.notion.com/p/38dfa5a3a09f813c909fc1c76c0f62c7
 
 ## Local preview
 
